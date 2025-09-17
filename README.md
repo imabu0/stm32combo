@@ -1,4 +1,4 @@
-# CSE331 Project - Smh2
+# stm32
 
 Welcome to the project! This README provides an overview of the project, setup instructions, and other relevant details.
 
